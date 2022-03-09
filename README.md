@@ -1,19 +1,23 @@
-<h1 align="center">Hi 👋, I'm Muhammad Sanan</h1>
+<img src="https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/777184/secure-rest-api-in-nodejs-18f43b3033c239da5d2525cfd9fdc98f.png"/>
+
+<h1 align="center">Hi there👋, I'm Muhammad Sanan</h1>
 <h3 align="center">A professional Back-End Developer👩‍💻 have 1 year of experience from Peshawar Pakistan 🇵🇰.</h3>
+<br/>
+<br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sananweb" alt="sananweb" /></a> </p>
+*Talking about Personal Stuffs:*
 
-- 🔭 I’m currently working on university FYP. *DATABOT*
+- 🔭 I’m currently working on university final year project.
 
-- 🌱 I’m currently learning *Socket.io, AWS and DevOps.*
+- 🌱 I’m currently learning Socket.io, AWS and DevOps.
 
-- 💬 Ask me about *Anything, i am happy to helping other people 😊*
+- 💬 Ask me about anything, i am happy to helping other people 😊.
 
-- 📫 How to reach me: LinkedIn **https://www.linkedin.com/in/muhammad-sanan-08095420a/**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/muhammad-sanan-08095420a/)
 
-- 📄 Know about my experiences: CV [https://www.linkedin.com/in/muhammad-sanan-08095420a/](https://www.linkedin.com/in/muhammad-sanan-08095420a/)
+- 📄 Know about my experiences: [CV](https://github.com/sananWEB/cv/blob/main/sananCV.pdf)
 
-- ⚡ Fun fact *I think I am funny*
+- ⚡ Fun fact I think I am funny
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
