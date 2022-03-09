@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Sanan</h1>
 <h3 align="center">A professional Back-End Developer👩‍💻 have 1 year of experience from Peshawar Pakistan 🇵🇰.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sananweb" alt="sananweb" /></a> </p>
-
 - 🔭 I’m currently working on university FYP. *DATABOT*
 
 - 🌱 I’m currently learning *Socket.io, AWS and DevOps.*
