@@ -7,7 +7,7 @@
 
 - 💬 Ask me about *Anything, i am happy to helping other people 😊*
 
-- 📫 How to reach me: LinkedIn **https://www.linkedin.com/in/muhammad-sanan-08095420a/**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/muhammad-sanan-08095420a/)
 
 - 📄 Know about my experiences: CV [https://www.linkedin.com/in/muhammad-sanan-08095420a/](https://www.linkedin.com/in/muhammad-sanan-08095420a/)
 
