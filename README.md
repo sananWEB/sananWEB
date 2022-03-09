@@ -26,7 +26,7 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sananweb&show_icons=true&locale=en&layout=compact" alt="sananweb" /></p>
-
+<br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sananweb&show_icons=true&locale=en" alt="sananweb" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
