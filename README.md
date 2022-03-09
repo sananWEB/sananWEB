@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Muhammad Sanan</h1>
 <h3 align="center">A professional Back-End Developer👩‍💻 have 1 year of experience from Peshawar Pakistan 🇵🇰.</h3>
 
-- 🔭 I’m currently working on university FYP. *DATABOT*
+- 🔭 I’m currently working on university final year project.
 
-- 🌱 I’m currently learning *Socket.io, AWS and DevOps.*
+- 🌱 I’m currently learning Socket.io, AWS and DevOps.
 
-- 💬 Ask me about *Anything, i am happy to helping other people 😊*
+- 💬 Ask me about anything, i am happy to helping other people 😊.
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/muhammad-sanan-08095420a/)
 
-- 📄 Know about my experiences: CV [https://www.linkedin.com/in/muhammad-sanan-08095420a/](https://www.linkedin.com/in/muhammad-sanan-08095420a/)
+- 📄 Know about my experiences: [CV](https://github.com/sananWEB/cv/blob/main/sananCV.pdf)
 
 - ⚡ Fun fact *I think I am funny*
 
