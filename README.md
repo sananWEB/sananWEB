@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences: [CV](https://github.com/sananWEB/cv/blob/main/sananCV.pdf)
 
-- ⚡ Fun fact I think I am funny
+- ⚡ Fun fact: nothing special 
 
 <p>&nbsp;<img  align="center" src="https://github-readme-stats.vercel.app/api?username=sananweb&show_icons=true&locale=en" alt="sananweb" /></p>
 <h3 align="left">Connect with me:</h3>
