@@ -1,19 +1,17 @@
 
 <h1 align="center">Hi there👋, I'm Muhammad Sanan</h1>
-<h3 align="center">A professional Back-End Developer👩‍💻 from Peshawar Pakistan 🇵🇰</h3>
+<h3 align="center">A professional DevOps Engineer👩‍💻 from Peshawar Pakistan 🇵🇰</h3>
 <br/>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <b>Talking about Personal Stuffs:</b>
 
 - 🔭 I’m currently working on university final year project.
 
-- 🌱 I’m currently learning Socket.io, AWS and DevOps.
+- 🌱 I’m currently learning terraform.
 
 - 💬 Ask me about anything, i am happy to helping other people 😊.
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/muhammad-sanan-08095420a/)
-
-- 📄 Know about my experiences: [CV](https://github.com/sananWEB/cv/blob/main/sananCV.pdf)
 
 - ⚡ Fun fact: nothing special 
 
